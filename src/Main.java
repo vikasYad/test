@@ -6,6 +6,7 @@ public class Main {
         System.out.println("changes");
         System.out.println("new git changes");
         System.out.println(" prod changes");
+        System.out.println(" dev changes");
     }
 }
 
